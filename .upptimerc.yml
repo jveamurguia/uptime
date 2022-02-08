@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: artemisa
-    url: https://artemisa.itainnova.es/api/
+    url: https://artemisa.itainnova.es/health/
   - name: sustainablelabels
     url: https://sustainablelabels.eu/webpage
     
