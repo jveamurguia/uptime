@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 78,
-    "timeWeek": 85,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "time": 84,
+    "timeDay": 65,
+    "timeWeek": 86,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/artemisa.itainnova.es",
     "slug": "artemisa",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 1029,
-    "timeDay": 966,
-    "timeWeek": 1096,
-    "timeMonth": 1029,
-    "timeYear": 1029,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1012,
+    "timeDay": 741,
+    "timeWeek": 1079,
+    "timeMonth": 1012,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2022-02-18": 19
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1349,
-    "timeDay": 1528,
-    "timeWeek": 1422,
-    "timeMonth": 1349,
-    "timeYear": 1349,
+    "time": 1322,
+    "timeDay": 913,
+    "timeWeek": 1417,
+    "timeMonth": 1322,
+    "timeYear": 1322,
     "dailyMinutesDown": {}
   }
 ]
