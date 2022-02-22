@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/artemisa.itainnova.es",
     "slug": "artemisa",
     "status": "down",
-    "uptime": "98.03%",
-    "uptimeDay": "73.84%",
-    "uptimeWeek": "96.08%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "98.03%",
+    "uptime": "97.98%",
+    "uptimeDay": "73.15%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "97.98%",
     "time": 1001,
     "timeDay": 805,
     "timeWeek": 1053,
     "timeMonth": 1001,
     "timeYear": 1001,
     "dailyMinutesDown": {
-      "2022-02-22": 377,
+      "2022-02-22": 387,
       "2022-02-18": 19
     }
   },
@@ -43,19 +43,19 @@
     "url": "https://sustainablelabels.eu/webpage",
     "icon": "https://favicons.githubusercontent.com/sustainablelabels.eu",
     "slug": "sustainablelabels",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1338,
-    "timeDay": 1607,
-    "timeWeek": 1435,
-    "timeMonth": 1338,
-    "timeYear": 1338,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 1310,
+    "timeDay": 1221,
+    "timeWeek": 1360,
+    "timeMonth": 1310,
+    "timeYear": 1310,
     "dailyMinutesDown": {
-      "2022-02-22": 0
+      "2022-02-22": 10
     }
   }
 ]
